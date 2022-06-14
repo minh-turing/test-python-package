@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="testp",
-    version="0.0.1",
+    version="0.0.2",
     author="M",
     author_email="m@gmail.com",
     description="A function that returns 'world'",
