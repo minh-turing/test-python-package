@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name="test_python_package",
+    name="testp",
     version="0.0.1",
     author="M",
     author_email="m@gmail.com",
