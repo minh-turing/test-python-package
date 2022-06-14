@@ -6,6 +6,6 @@ setuptools.setup(
     author="M",
     author_email="m@gmail.com",
     description="A function that returns 'world'",
-    py_modules=['hello'],
+    py_modules=['testp'],
     scripts=['hello.py']
 )
